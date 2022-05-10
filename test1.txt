@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is D0BE-7EC7
-
- Directory of C:\Users\MB67197\Desktop\MyGitProject
-
-05/10/2022  10:38 AM    <DIR>          .
-05/10/2022  10:38 AM    <DIR>          ..
-05/10/2022  10:38 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  134,226,878,464 bytes free
+hii this is junaid
